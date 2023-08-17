@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Primer repositorio para el PrepCourse de Henry
+Este proyecto es una prueba de como crear un repositorio remoto en Github
